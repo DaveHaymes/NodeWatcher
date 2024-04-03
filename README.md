@@ -15,7 +15,7 @@ NodeWatcher is a Node.js utility that checks website availability from a text li
 - **Discord Notifications:** Reports errors to Discord with details like timestamp, URL, and status code.
 <p align="center">
   <img src="https://netherium.s3.us-west-1.amazonaws.com/cdn/DiscordNotifications1.png" width="300" alt="Discord Notification Example 1"/>
-  <img src="https://netherium.s3.us-west-1.amazonaws.com/cdn/DiscordNotifications2.png" width="300" alt="Discord Notification Example 1"/>
+  <img src="https://netherium.s3.us-west-1.amazonaws.com/cdn/DiscordNofications2.png" width="300" alt="Discord Notification Example 1"/>
 </p>
 - **Time Zone Support:** Uses America/Denver time zone for logs, customizable to any zone.
 - **Error Handling:** Logs request issues, including timeouts and DNS errors.
